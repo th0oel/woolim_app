@@ -1,6 +1,6 @@
-# woolim 1234
+# woolim 프로젝트 소개
 
-A new Flutter project.
+구음장애인들의 어눌한 발음을 교정 발화해주는 어플 개발 중입니다. 
 
 ## Getting Started
 
